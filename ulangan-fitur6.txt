@@ -1,1 +1,2 @@
-Commit dengan Issue Fitur 6 (good issue)
+Commit dengan Issue Fitur 6 fitur ulangan (good issue)
+
