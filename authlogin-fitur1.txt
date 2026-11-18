@@ -1,1 +1,3 @@
 Commit dengan Issue Fitur 1 (good issue)
+
+Commit issue Fitur 1 sudah fix (status resolved)
