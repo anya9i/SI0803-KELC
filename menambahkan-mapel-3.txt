@@ -1,1 +1,3 @@
 commit dengan issue fitur 3(good issue)
+
+COMMIT ISSUE FITUR 3 (STATUS RESOLVED)
